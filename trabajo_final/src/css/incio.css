@@ -241,7 +241,7 @@ border-radius: 5px;
   }
   /*Color del texto de la transicion*/
   .contenedor figure .capa h1 {
-    color: #fff;
+    color: rgb(0, 0, 0);
     transition: all 500ms ease-out;
   }
   .contenedor figure .capa h5 {

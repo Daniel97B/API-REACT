@@ -52,7 +52,7 @@ const Complementario = () => {
 
                 <br></br>
                 <div class="row">
-                
+
                     <div class="row ">
                         <div class="col-12 blancs">
                             <h1 class="verde">
@@ -97,10 +97,10 @@ const Complementario = () => {
                             <figure>
                                 <img src={require('../img/zonaestiramiento.jpg').default} class=" img-fluid m-arriba" alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Estiramiento
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p"> Una buena tabla de estiramientos te ayuda fundamentalmente a: Reducir la tensión muscular y relajar el cuerpo. Aumentar y mejorar el rango de movimiento. Previene lesiones musculares y distensiones de las articulaciones.</p>
                                 </div>
                             </figure>
                         </div>
@@ -114,10 +114,10 @@ const Complementario = () => {
                             <figure>
                                 <img class=" img-fluid m-arriba" src={require('../img/zonacardiovascular.jpg').default} alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Cardio
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p">El ejercicio aeróbico regular es uno de los aspectos que más consideramos a la hora de moldear nuestro cuerpo.Son ejercicios que aumentan la frecuencia cardíaca, aumentan la resistencia y mejoran la condición física. Cuando hacemos cardio, nuestros cuerpos apoyan la adaptación debido al ejercicio aeróbico regular, y esta adaptación y cambio en nuestro cuerpo será mayor o menor dependiendo principalmente de la frecuencia.</p>
                                 </div>
                             </figure>
                         </div>
@@ -131,10 +131,10 @@ const Complementario = () => {
                             <figure>
                                 <img class=" img-fluid m-arriba der-f" src={require('../img/zonamusculacion.jpg').default} alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Musculación
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p">En la zona de musculación encontrarás una máquina de carga con engranajes, un sistema de poleas y pesas. Esta área está diseñada y pensada para que puedas entrenar cada grupo de músculos como desees.</p>
                                 </div>
                             </figure>
                         </div>
@@ -160,10 +160,10 @@ const Complementario = () => {
                             <figure>
                                 <img class=" img-fluid m-arriba izq-f" src={require('../img/clasesgrupales.jpg').default} alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Grupal
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p">Las clases grupales de fitness son clases organizadas en las que un entrenador guía a un grupo de personas a través de un entrenamiento específico. Estas clases pueden ser para un entrenamiento de parte del cuerpo, entrenamiento funcional con accesorios o coreografía estructurada.</p>
                                 </div>
                             </figure>
                         </div>
@@ -178,10 +178,12 @@ const Complementario = () => {
                             <figure>
                                 <img class=" img-fluid m-arriba" src={require('../img/zonashumedas.jpg').default} alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Sauna
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p">
+                                        Rejuvenecimiento, desintoxicación de la piel, restaura y relaja el cuerpo, desintoxica, mejorar la respiración, en las zonas húmedas con el baño turco y la sauna. Recuerde verificar el protocolo y el horario para utilizar este espacio.
+                                    </p>
                                 </div>
                             </figure>
                         </div>
@@ -193,10 +195,13 @@ const Complementario = () => {
                             <figure>
                                 <img class=" img-fluid m-arriba der-f" src={require('../img/artesmarcialesmixtas.jpg').default} alt="" width="100%"></img>
                                 <div class="capa">
-                                    <h1>
-                                        Medicina General
+                                    <h1 class="blancs">
+                                        Artes Marciales
                                     </h1>
-                                    <p class="p"> La medicina general es el primer nivel de atención médica y es necesaria para la prevención, detección, tratamiento y seguimiento de enfermedades</p>
+                                    <p class="p">
+                                        ¿Qué son las artes marciales y por qué se utilizan?
+                                        Las artes marciales son técnicas y métodos creados para defender y luchar en combate. Las artes marciales son un arte porque representan una estética específica y militar.
+                                    </p>
                                 </div>
                             </figure>
                         </div>
